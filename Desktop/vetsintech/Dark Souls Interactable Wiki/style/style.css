@@ -1,0 +1,46 @@
+#titlePage {
+    
+    font-size: 4em;
+    letter-spacing: 30px;
+    word-spacing: 70px;
+    margin: 90px 20px 30px 100px;
+    
+    /* border-style: double solid double; */
+    /* border-spacing: 50px 50px; */
+    
+}
+
+#homeButton {
+    margin: 20px 60px 30px 100px;
+    display: block;
+  position: relative;
+  padding-left: 35px;
+  margin-bottom: 12px;
+  cursor: pointer;
+  font-size: 80px;
+  user-select: none;
+  display: inline;
+
+}
+
+#headingOne{
+  margin: 20px 60px 30px 100px;
+  font-size: x-large;
+}
+
+.paragraphOne{
+  font-size: 12pt;
+  font-weight: 520;
+  word-spacing: 6px;
+}
+
+#picRight{
+    float: right;
+    margin-right: 30px;
+}
+
+#resize{
+  width: 1340px;
+  height: 300px;
+  margin: 30px 30px 30px 95px;
+}
